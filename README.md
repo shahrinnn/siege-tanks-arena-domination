@@ -6,6 +6,19 @@ A 3D OpenGL tank combat game developed as part of **CSE423: Computer Graphics ac
 
 Siege Tanks: Arena Domination is a 3D combat game where players control tanks in an arena environment. The project focuses on implementing computer graphics concepts including 3D modeling, transformations, camera control, lighting, and interactive gameplay mechanics using OpenGL.
 
+## How to Run
+
+### Requirements
+- Python 3.x
+- PyOpenGL
+- GLUT
+
+### Install Dependencies
+
+```bash
+pip install PyOpenGL PyOpenGL_accelerate
+
+
 ## Features
 
 - 3D tank rendering and movement
